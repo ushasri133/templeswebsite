@@ -1,0 +1,234 @@
+[
+  {
+    "name": "Kashi Vishwanath Temple",
+    "state": "Uttar Pradesh",
+    "location": "Varanasi",
+    "deity": "Shiva",
+    "timings": "3:00 AM – 11:00 PM",
+    "image": "/kashi.jpg"
+  },
+  {
+    "name": "Meenakshi Temple",
+    "state": "Tamil Nadu",
+    "location": "Madurai",
+    "deity": "Meenakshi (Parvati), Sundareswarar (Shiva)",
+    "timings": "5:00 AM – 12:30 PM, 4:00 PM – 10:00 PM",
+    "image": "/mina.jpg"
+  },
+  {
+    "name": "Jagannath Temple",
+    "state": "Odisha",
+    "location": "Puri",
+    "deity": "Jagannath (Krishna), Balabhadra, Subhadra",
+    "timings": "5:00 AM – 11:30 PM",
+    "image": "/jagannath.jpg"
+  },
+  {
+    "name": "Tirumala Venkateswara Temple",
+    "state": "Andhra Pradesh",
+    "location": "Tirupati",
+    "deity": "Venkateswara (Vishnu)",
+    "timings": "2:30 AM – 1:30 AM (next day)",
+    "image": "/tiru.jpg"
+  },
+  {
+    "name": "Somnath Temple",
+    "state": "Gujarat",
+    "location": "Prabhas Patan",
+    "deity": "Shiva",
+    "timings": "6:00 AM – 9:00 PM",
+    "image": "/som.jpg"
+  },
+  {
+    "name": "Kedarnath Temple",
+    "state": "Uttarakhand",
+    "location": "Kedarnath",
+    "deity": "Shiva",
+    "timings": "4:00 AM – 9:00 PM (seasonal)",
+    "image": "/kedhar.jpg"
+  },
+  {
+    "name": "Badrinath Temple",
+    "state": "Uttarakhand",
+    "location": "Badrinath",
+    "deity": "Vishnu",
+    "timings": "4:30 AM – 9:00 PM (seasonal)",
+    "image": "/badri.jpg"
+  },
+  {
+    "name": "Ramanathaswamy Temple",
+    "state": "Tamil Nadu",
+    "location": "Rameswaram",
+    "deity": "Shiva",
+    "timings": "5:00 AM – 1:00 PM, 3:00 PM – 9:00 PM",
+    "image": "/ram.jpg"
+  },
+  {
+    "name": "Vaishno Devi Temple",
+    "state": "Jammu and Kashmir",
+    "location": "Katra",
+    "deity": "Vaishno Devi",
+    "timings": "Open 24 hours",
+    "image": "/vaish.jpg"
+  },
+  {
+    "name": "Amarnath Cave Temple",
+    "state": "Jammu and Kashmir",
+    "location": "Amarnath",
+    "deity": "Shiva (Ice Lingam)",
+    "timings": "Open during Yatra season",
+    "image": "/cave.jpg"
+  },
+  {
+    "name": "Akshardham Temple",
+    "state": "Delhi",
+    "location": "New Delhi",
+    "deity": "Swaminarayan",
+    "timings": "9:30 AM – 6:30 PM (closed Monday)",
+    "image": "/aksh.jpg"
+  },
+  {
+    "name": "Golden Temple",
+    "state": "Punjab",
+    "location": "Amritsar",
+    "deity": "Guru Granth Sahib (Sikhism)",
+    "timings": "Open 24 hours",
+    "image": "/gold.jpg"
+  },
+  {
+    "name": "Siddhivinayak Temple",
+    "state": "Maharashtra",
+    "location": "Mumbai",
+    "deity": "Ganesha",
+    "timings": "5:30 AM – 10:00 PM",
+    "image": "/ganesh.jpg"
+  },
+  {
+    "name": "Kamakhya Temple",
+    "state": "Assam",
+    "location": "Guwahati",
+    "deity": "Kamakhya Devi (Shakti)",
+    "timings": "8:00 AM – 1:00 PM, 2:30 PM – 5:30 PM",
+    "image": "/kamakya.jpg"
+  },
+  {
+    "name": "Mahakaleshwar Temple",
+    "state": "Madhya Pradesh",
+    "location": "Ujjain",
+    "deity": "Shiva",
+    "timings": "4:00 AM – 11:00 PM",
+    "image": "/maha.jpg"
+  },
+  {
+    "name": "Dwarkadhish Temple",
+    "state": "Gujarat",
+    "location": "Dwarka",
+    "deity": "Krishna",
+    "timings": "6:30 AM – 1:00 PM, 5:00 PM – 9:30 PM",
+    "image": "/dwaraka.jpg"
+  },
+  {
+    "name": "Yamunotri Temple",
+    "state": "Uttarakhand",
+    "location": "Yamunotri",
+    "deity": "Goddess Yamuna",
+    "timings": "6:00 AM – 8:00 PM (seasonal)",
+    "image": "/yam.jpg"
+  },
+  {
+    "name": "Gangotri Temple",
+    "state": "Uttarakhand",
+    "location": "Gangotri",
+    "deity": "Goddess Ganga",
+    "timings": "6:15 AM – 2:00 PM, 3:00 PM – 9:30 PM",
+    "image": "/ganga.jpg"
+  },
+  {
+    "name": "Lingaraj Temple",
+    "state": "Odisha",
+    "location": "Bhubaneswar",
+    "deity": "Shiva",
+    "timings": "6:00 AM – 9:00 PM",
+    "image": "/linga.jpg"
+  },
+  {
+    "name": "Padmanabhaswamy Temple",
+    "state": "Kerala",
+    "location": "Thiruvananthapuram",
+    "deity": "Vishnu",
+    "timings": "3:30 AM – 12:00 PM, 5:00 PM – 7:20 PM",
+    "image": "/padhma.jpg"
+  },
+  {
+    "name": "Chottanikkara Temple",
+    "state": "Kerala",
+    "location": "Ernakulam",
+    "deity": "Bhagavathi",
+    "timings": "4:00 AM – 12:00 PM, 4:00 PM – 8:00 PM",
+    "image": "/chota.jpg"
+  },
+  {
+    "name": "Kalighat Kali Temple",
+    "state": "West Bengal",
+    "location": "Kolkata",
+    "deity": "Kali",
+    "timings": "5:00 AM – 2:00 PM, 5:00 PM – 10:30 PM",
+    "image": "/kali.jpg"
+  },
+  {
+    "name": "Dakshineswar Kali Temple",
+    "state": "West Bengal",
+    "location": "Kolkata",
+    "deity": "Kali",
+    "timings": "5:00 AM – 8:00 PM",
+    "image": "/daksh.jpg"
+  },
+  {
+    "name": "Rajagopalaswamy Temple",
+    "state": "Tamil Nadu",
+    "location": "Mannargudi",
+    "deity": "Krishna",
+    "timings": "6:00 AM – 12:00 PM, 4:00 PM – 9:00 PM",
+    "image": "/raj.jpg"
+  },
+  {
+    "name": "Brihadeeswarar Temple",
+    "state": "Tamil Nadu",
+    "location": "Thanjavur",
+    "deity": "Shiva",
+    "timings": "6:00 AM – 12:30 PM, 4:00 PM – 8:30 PM",
+    "image": "/briha.jpg"
+  },
+  {
+    "name": "Murudeshwar Temple",
+    "state": "Karnataka",
+    "location": "Murudeshwar",
+    "deity": "Shiva",
+    "timings": "3:00 AM – 1:00 PM, 3:00 PM – 8:00 PM",
+    "image": "/muru.jpg"
+  },
+  {
+    "name": "Sharada Peeth",
+    "state": "International",
+    "location": "Poonch (disputed)",
+    "deity": "Saraswati",
+    "timings": "Currently non-functional",
+    "image": "/sharadha.jpg"
+  },
+  {
+    "name": "Sabarimala Temple",
+    "state": "Kerala",
+    "location": "Pathanamthitta",
+    "deity": "Ayyappa",
+    "timings": "Seasonal",
+    "image": "/shebari.jpg"
+  },
+  {
+    "name": "Nataraja Temple",
+    "state": "Tamil Nadu",
+    "location": "Chidambaram",
+    "deity": "Shiva (Nataraja)",
+    "timings": "6:00 AM – 12:00 PM, 5:00 PM – 10:00 PM",
+    "image": "/nataraj.jpg"
+  }
+]
